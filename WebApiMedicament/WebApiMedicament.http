@@ -1,0 +1,6 @@
+@WebApiMedicament_HostAddress = http://192.168.1.2:5055
+
+
+###Accept: application/json
+
+###
